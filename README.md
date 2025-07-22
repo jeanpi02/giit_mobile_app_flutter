@@ -39,7 +39,7 @@ Una aplicación móvil del **Sistema de Gestión de Investigación e Innovación
 1. **Clona el repositorio**
    ```bash
    git clone <tu-repositorio-url>
-   cd coofeshop
+   cd giitapp
    ```
 
 2. **Instala las dependencias**
