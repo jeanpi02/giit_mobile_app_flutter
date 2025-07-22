@@ -38,7 +38,7 @@ class MainApp extends StatelessWidget {
             return EditUserScreen(user: user);
           },
         ),
-        // Aquí se agregará el panel de administración luego
+        
       ],
     );
     return MaterialApp.router(
